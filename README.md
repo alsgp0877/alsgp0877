@@ -1,4 +1,7 @@
 
+![header](https://capsule-render.vercel.app/api?type=Slice&color=E34F26&height=150&section=header&text=Dev_mine&fontSize=50&rotate=+10&fontAlignY=30&fontAlign=70&fontColor=black) 
+
+
 ### Hi there 👋
 - 🔭 I'm currently working on Web Development
 - 🌱 I'm currently learning SpringMVC
@@ -22,5 +25,5 @@
 
 - **Sub Stack** </br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Raspberry Pi-c21b2f?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry Pi-c21b2f?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp;
