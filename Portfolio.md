@@ -40,8 +40,7 @@
 [Skills](https://www.notion.so/336753ff4e1947a5882083c33376e00e)
 
 ## 📑 Certificate
-```2021.07```<br>
-- 정보처리기사
+- 정보처리기사 ```2021.07```<br>
 
 ## 📝 Blog
 
