@@ -53,8 +53,8 @@
        
        - Java & SpringFramework 기반 웹 서비스 개발
        - Vue.js 기반 사용자 UI 웹 서비스 개발    
-       - HTTP API 활용
-       - 
+       - HTTP, RESTful API 웹 서비스 개발
+       
         
     2) 언택트 문화생활 서비스 개발
    
