@@ -3,8 +3,8 @@
 
 
 ### Hi there 👋
-- 🔭 I'm currently working on Web Development at SI Company (2020.08 ~ )
-- 🌱 I'm currently learning SpringMVC and JS
+- 🔭 I'm currently working on Web Development at SI Company (2021.03 ~ )
+- 🌱 I'm currently learning SpringFramwork and Vue.Js
 - 🤔 I'm looking for help with github :)
 - ⚡ Fun fact : Unlike my profile, I liked embedded systems when I was a student.
 
