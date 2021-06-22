@@ -1,4 +1,3 @@
-# 이름 (Name)
 
 ## 👨‍💻Backend Engineer, Web Developer
 ## 💡 Contact
