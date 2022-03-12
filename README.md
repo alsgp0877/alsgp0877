@@ -11,7 +11,7 @@
 - 📭 alsgp0877@naver.com
 
 ### Blog 📝 
-= https://ppowerppush.tistory.com/
+- https://ppowerppush.tistory.com/
 
 #### Main Stack
 - **Languages** </br>
