@@ -3,32 +3,33 @@
 
 
 기본기 조지는 중입니다.
-### Career👋
+### Career 👋
 - 🔭 Ubitec Intern (2020.08 ~ 2021.02)
 - 🔭 Ubitec Web Developer (2021.03 ~ )
 
-### Contact💡
+### Contact 💡
 - 📭 alsgp0877@naver.com
 
 ### Blog 📝 
 - https://ppowerppush.tistory.com/
 
-#### Main Stack
+#### Main Stack 
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
 - **Framework** </br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
+- **Tech** </br>
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>&nbsp;
 - **Tools** </br>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
 
-- **Sub Stack** </br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>&nbsp;
 
 
