@@ -1,8 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=E34F26&height=150&section=header&text=Dev_mine&fontSize=50&rotate=+10&fontAlignY=30&fontAlign=70&fontColor=black) 
 
-
-기본기 조지는 중입니다.
+분야 변경 고민중
 ### Career 👋
 - 🔭 Ubitec Intern (2020.08 ~ 2021.02)
 - 🔭 Ubitec Web Developer (2021.03 ~ )
