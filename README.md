@@ -5,15 +5,9 @@
 🔭 Ubitec Web Developer (2021.03 ~ )
 </p>
 
-
 <h2 align="center"> Contact📭</h3>
 <p align="center">
 alsgp0877@naver.com
-</p>
-
-<h2 align="center"> Blog📝</h3>
-<p align="center">
-https://ppowerppush.tistory.com/
 </p>
 
 <h2 align="center"> Full-Stack🛠</h3>
