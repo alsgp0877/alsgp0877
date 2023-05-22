@@ -1,8 +1,8 @@
 <br><br>
 <h2 align="center"> Career 👋</h3>
 <p align="center">
-🔭 Ubitec Intern (2020.08 ~ 2021.02)<br>
-🔭 Ubitec Web Developer (2021.03 ~ )
+🔭 Intern (2020.08 ~ 2021.02)<br>
+🔭 Web Developer (2021.03 ~ )
 </p>
 
 <h2 align="center"> Contact📭</h3>
