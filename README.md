@@ -15,7 +15,7 @@ alsgp0877@naver.com
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Servlet&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Servlet-6DB33F?style=flat-square&logo=Servlet&logoColor=white"/></a>&nbsp;
 </p>
 
 <h3 align="center"> FrontEnd</h3>
