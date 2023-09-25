@@ -19,7 +19,7 @@ alsgp0877@naver.com
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
 </p> --!>
 
-<h3 align="center"> Stack</h3>
+<h2 align="center"> Stack🛠</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-0000FF?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
