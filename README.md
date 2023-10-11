@@ -16,14 +16,14 @@ alsgp0877@naver.com
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Servlet-6DB33F?style=flat-square&logo=Servlet&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-0000FF?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>&nbsp;
 </p> --!>
 
 <h2 align="center"> Stack🛠</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-0000FF?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 </p>
