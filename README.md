@@ -36,6 +36,6 @@ alsgp0877@naver.com
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white">&nbsp;
 </p> --!>
 
-<p align="center">
+<!--p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alsgp0877"/></a>
-</p>
+</p --!>
