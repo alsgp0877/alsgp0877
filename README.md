@@ -25,7 +25,6 @@ alsgp0877@naver.com
 <h2 align="center"> Stack🛠</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 </p>
 
@@ -34,6 +33,7 @@ alsgp0877@naver.com
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>&nbsp;
 </p> --!>
 
 <!--p align="center">
