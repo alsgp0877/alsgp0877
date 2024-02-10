@@ -1,4 +1,3 @@
-<br><br>
 <h2 align="center"> Career 👋</h3>
 <p align="center">
 🔭 Intern (2020.08 ~ 2021.02)<br>
