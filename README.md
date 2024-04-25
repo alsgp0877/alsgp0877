@@ -2,7 +2,7 @@
 <p align="center">
 🔭 Intern (2020.08 ~ 2021.02)<br>
 🔭 Web Developer (2021.03 ~ 2023.08)<br>
-🔭 Embedded Developer (2021.03 ~ 2023.08)
+🔭 Embedded Developer (2024.04 ~ )<br>
 </p>
 
 <!-- <h2 align="center"> Full-Stack🛠</h3>
