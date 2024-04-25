@@ -1,7 +1,8 @@
 <h2 align="center"> Career 👋</h3>
 <p align="center">
 🔭 Intern (2020.08 ~ 2021.02)<br>
-🔭 Web Developer (2021.03 ~ 2023.08)
+🔭 Web Developer (2021.03 ~ 2023.08)<br>
+🔭 Embedded Developer (2021.03 ~ 2023.08)
 </p>
 
 <!-- <h2 align="center"> Full-Stack🛠</h3>
