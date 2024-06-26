@@ -1,8 +1,8 @@
 <h2 align="center"> Career 👋</h3>
 <p align="center">
 🔭 Intern (2020.08 ~ 2021.02)<br>
-🔭 Java & JS Developer (2021.03 ~ 2023.08)<br>
-🔭 Vue.JS Developer (2024.06 ~ )<br>
+🔭 Spring & Java & JS Developer (2021.03 ~ 2023.08)<br>
+🔭 Spring Boot & Java & Vue.JS Developer (2024.06 ~ ) <br>
 </p>
 
 <h2 align="center"> Stack🛠</h2>
